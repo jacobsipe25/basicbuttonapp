@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">tryagain</string>
+    <string-array name="patterns">
+        <item>One</item>
+        <item>Two</item>
+    </string-array>
 </resources>
